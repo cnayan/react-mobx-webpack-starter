@@ -12,7 +12,7 @@ Added:
 
 To use MobX with create-react-app and decorators, [react-app-rewired](https://github.com/timarney/react-app-rewired/blob/master/README.md)
 
-### Run the example
+### Build example
 
 ```
 npm install
@@ -22,6 +22,7 @@ or,
 yarn
 ```
 
+### Run the example
 ```
 npm start
 ```
